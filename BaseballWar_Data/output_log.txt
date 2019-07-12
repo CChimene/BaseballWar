@@ -14,31 +14,10 @@ Platform assembly: C:\Users\Coby\Documents\GitHub\BaseballWar\BaseballWar_Data\M
 Loading C:\Users\Coby\Documents\GitHub\BaseballWar\BaseballWar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Coby\Documents\GitHub\BaseballWar\BaseballWar_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Coby\Documents\GitHub\BaseballWar\BaseballWar_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.555 seconds
+- Completed reload, in  0.346 seconds
 Platform assembly: C:\Users\Coby\Documents\GitHub\BaseballWar\BaseballWar_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Coby\Documents\GitHub\BaseballWar\BaseballWar_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.786611 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 262c -> priority: 1 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 37.574860 ms
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 705.
-Total: 2.508440 ms (FindLiveObjects: 0.144964 ms CreateObjectMapping: 0.057301 ms MarkObjects: 2.276668 ms  DeleteObjects: 0.028223 ms)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
