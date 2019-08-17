@@ -12,9 +12,16 @@ The name is a play on WAR, which is a baseball stat (Wins above replacement) and
 -Added setup options in main game (game length, first player, player colors, deck choice)
 -Fixed some ui scaling issues
 
+8/17/19:
+-Local multiplayer
+-Autosaves when you quit to menu
+-Import/Export feature for the deckbuilder, can now
+convert decks to strings for easier sharing
+-Fixed bug which prevented decks from being deleted
+-Fixed errors on the inning display
+
 TODO
--Extra Innings
 -Music/Sound FX?
 -Enhanced AI 
--Multiplayer? Local/Online?
+-Online Multiplayer?
 -UI improvements
